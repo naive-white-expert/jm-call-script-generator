@@ -1,7 +1,9 @@
 ---
 name: jm-call-script-generator
+version: 3.0.0
 description: JM外呼话术模板生成器。根据业务信息文档和模板文档生成完整的AI外呼话术模板。触发场景：(1)用户提供活动信息文档+模板文档要求生成话术；(2)用户要求根据活动信息填充外呼模板；(3)用户提及"话术生成"、"外呼模板"、"填充模板"等关键词。支持Excel格式的业务信息收集表和外呼流程模板。
 github: https://github.com/openclaw/skills/tree/main/skills/jm-call-script-generator
+emoji: 📞
 ---
 
 # JM外呼-话术生成器
